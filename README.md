@@ -27,4 +27,4 @@ pip install unittest
 [Foto](https://drive.google.com/drive/folders/1Af_8eMSDYBWrQLFeQDU8OtPhFEBkV22u?usp=share_link)
 
 ### Video Testing
-[Youtube](https://youtu.be/M53F09JaIGA){:target="_blank" rel="noopener"}
+[Youtube](https://youtu.be/M53F09JaIGA)
