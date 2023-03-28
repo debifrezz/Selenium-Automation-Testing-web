@@ -4,12 +4,14 @@
 ## Automation Testing website demo FGA Kominfo QA Binar Academy
 
 ### Cara menggunakan
-1. Install module selenium -> 
+1. Install module selenium [Selenium](https://selenium-python.readthedocs.io/installation.html)
 ```
 pip install selenium 
 ```
-[Selenium](https://selenium-python.readthedocs.io/installation.html)
-2. Install pyautogui -> pip install pyautogui [Pyautogui](https://pyautogui.readthedocs.io/en/latest/install.html)
+2. Install pyautogui [Pyautogui](https://pyautogui.readthedocs.io/en/latest/install.html)
+```
+pip install pyautogui
+```
 3. Jalankan file Run_file.py
 4. Tunggu hingga selesai proses testing
 5. Cek hasil report pada file  Smoke_Testing1.html
